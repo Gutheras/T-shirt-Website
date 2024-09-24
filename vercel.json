@@ -1,12 +1,10 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/", "dest": "/index.html" },
+    { "src": "/", "dest": "/home.html" },
     { "src": "/about", "dest": "/about.html" },
     { "src": "/contact", "dest": "/contact.html" },
     { "src": "/shop", "dest": "/shop.html" },
-    { "src": "/sproducts", "dest": "/sproducts.html" },
-    { "src": "/script", "dest": "/script.js" }
-
+    { "src": "/sproducts", "dest": "/sproducts.html" }
   ]
 }
